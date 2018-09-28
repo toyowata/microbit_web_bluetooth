@@ -2,6 +2,8 @@
 
 ## micro:bit側のコード
 
+![micro:bit側のコード](bt_code.png)
+
 [プログラムへのリンク](https://makecode.microbit.org/_fK2C7Eh23Kmp)
 
 設定メニューの「プロジェクトの設定」を選択し、`No Pairing Required: Anyone can connect via Bluetooth.`を有効にしてプログラムを作成してください。
