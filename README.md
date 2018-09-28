@@ -8,6 +8,8 @@
 
 設定メニューの「プロジェクトの設定」を選択し、`No Pairing Required: Anyone can connect via Bluetooth.`を有効にしてプログラムを作成してください。
 
+![プロジェクトの設定](settings.png)
+
 ## Webブラウザ側のコード
 
 ```html
