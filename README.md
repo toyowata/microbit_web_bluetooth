@@ -4,11 +4,14 @@
 
 ![micro:bit側のコード](bt_code.png)
 
-[プログラムへのリンク](https://makecode.microbit.org/_fK2C7Eh23Kmp)
+[プログラムへのリンク](https://makecode.microbit.org/_VW8TW4etW0bd)
 
 設定メニューの「プロジェクトの設定」を選択し、`No Pairing Required: Anyone can connect via Bluetooth.`を有効にしてプログラムを作成してください。
 
 ![プロジェクトの設定](settings.png)
+
+【注意】  
+`No Pairing Required`に設定すると、以後ペアリングモード（A+Bボタンを押しながらリセット）に移行しなくなります。ペアリングモードに戻したい場合は、一度プロジェクトの設定を戻した状態のプログラムをUSB経由で書き込んでください。
 
 ## Webブラウザ側のコード
 
